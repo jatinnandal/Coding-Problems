@@ -8,3 +8,4 @@ Competitive and Interview Coding problems
 6. Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
 7. Leftmost Column with at Least a One https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/
 8. Merge k Sorted Lists https://leetcode.com/problems/merge-k-sorted-lists/
+9. Longest Palindromic Substring https://leetcode.com/problems/longest-palindromic-substring/
