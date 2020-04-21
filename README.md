@@ -6,3 +6,5 @@ Competitive and Interview Coding problems
 4. Median of Two Sorted Arrays https://leetcode.com/problems/median-of-two-sorted-arrays/
 5. Construct Binary Search Tree from Preorder Traversal https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 6. Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
+7. Leftmost Column with at Least a One https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/
+
