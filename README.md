@@ -10,3 +10,4 @@ Competitive and Interview Coding problems
 8. Merge k Sorted Lists https://leetcode.com/problems/merge-k-sorted-lists/
 9. Longest Palindromic Substring https://leetcode.com/problems/longest-palindromic-substring/
 10. Remove Duplicates from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+11.  Subarray Sum Equals K https://leetcode.com/problems/subarray-sum-equals-k/
