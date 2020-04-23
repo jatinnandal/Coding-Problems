@@ -12,3 +12,4 @@ Competitive and Interview Coding problems
 10. Remove Duplicates from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 11.  Subarray Sum Equals K https://leetcode.com/problems/subarray-sum-equals-k/
 12. Find First and Last Position of Element in Sorted Array https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+13. Bitwise AND of Numbers Range https://leetcode.com/problems/bitwise-and-of-numbers-range/
