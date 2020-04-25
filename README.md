@@ -17,3 +17,4 @@ Competitive and Interview Coding problems
 15. Count and Say https://leetcode.com/problems/count-and-say/
 16. First Missing Positive https://leetcode.com/problems/first-missing-positive/
 17. Trapping Rain Water https://leetcode.com/problems/trapping-rain-water/
+18. Jump Game https://leetcode.com/problems/jump-game/
