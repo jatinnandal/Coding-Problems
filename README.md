@@ -19,4 +19,5 @@ Competitive and Interview Coding problems
 17. Trapping Rain Water https://leetcode.com/problems/trapping-rain-water/
 18. Jump Game https://leetcode.com/problems/jump-game/
 19. Rotate Image https://leetcode.com/problems/rotate-image/
-20.  Pow(x, n) https://leetcode.com/problems/powx-n/
+20. Pow(x, n) https://leetcode.com/problems/powx-n/
+21. Longest Common Subsequence https://leetcode.com/problems/longest-common-subsequence/
