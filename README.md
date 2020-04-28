@@ -22,3 +22,4 @@ Competitive and Interview Coding problems
 20. Pow(x, n) https://leetcode.com/problems/powx-n/
 21. Longest Common Subsequence https://leetcode.com/problems/longest-common-subsequence/
 22. First Unique Number https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/
+23. Merge Intervals https://leetcode.com/problems/merge-intervals/
