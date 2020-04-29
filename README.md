@@ -26,3 +26,4 @@
 23. Merge Intervals https://leetcode.com/problems/merge-intervals/
 24.  Unique Paths https://leetcode.com/problems/unique-paths/
 25. Plus One https://leetcode.com/problems/plus-one/
+26. Binary Tree Maximum Path Sum https://leetcode.com/problems/binary-tree-maximum-path-sum/
