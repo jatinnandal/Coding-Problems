@@ -31,3 +31,4 @@
 28. Sort Colors https://leetcode.com/problems/sort-colors/submissions/
 29. Minimum Window Substring  https://leetcode.com/problems/minimum-window-substring/
 30. First Bad Version https://leetcode.com/problems/first-bad-version/
+31. Subsets https://leetcode.com/problems/subsets/
