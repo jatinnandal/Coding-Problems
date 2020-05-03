@@ -33,3 +33,4 @@
 30. First Bad Version https://leetcode.com/problems/first-bad-version/
 31. Subsets https://leetcode.com/problems/subsets/
 32. Clone Graph https://leetcode.com/problems/clone-graph/
+33. Largest Rectangle in Histogram https://leetcode.com/problems/largest-rectangle-in-histogram/
