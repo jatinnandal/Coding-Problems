@@ -37,3 +37,4 @@
 34. Complement of Base 10 Integer https://leetcode.com/problems/complement-of-base-10-integer/
 35. First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/
 36. Decode Ways https://leetcode.com/problems/decode-ways/submissions/
+37. Generate Parentheses https://leetcode.com/problems/generate-parentheses/
