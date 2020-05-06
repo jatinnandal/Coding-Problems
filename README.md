@@ -40,3 +40,5 @@
 37. Generate Parentheses https://leetcode.com/problems/generate-parentheses/
 38.  Majority Element https://leetcode.com/problems/majority-element/
 39. Spiral Matrix II https://leetcode.com/problems/spiral-matrix-ii/
+40. Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+41. Best Time to Buy and Sell Stock II https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
