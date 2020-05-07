@@ -44,3 +44,4 @@
 41. Best Time to Buy and Sell Stock II https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 42. Best Time to Buy and Sell Stock with Cooldown https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 43. Course Schedule https://leetcode.com/problems/course-schedule/
+44. Copy List with Random Pointer https://leetcode.com/problems/copy-list-with-random-pointer/
