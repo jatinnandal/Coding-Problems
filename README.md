@@ -49,3 +49,4 @@
 46. Find the Town Judge https://leetcode.com/problems/find-the-town-judge/
 47. Flood Fill https://leetcode.com/problems/flood-fill/
 48. Gas Station https://leetcode.com/problems/gas-station/
+49. Implement Trie (Prefix Tree) https://leetcode.com/problems/implement-trie-prefix-tree/
